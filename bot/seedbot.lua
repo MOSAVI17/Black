@@ -232,11 +232,7 @@ An advance Administration bot based on yagop/telegram-bot
 Admin
 @Black_Hat_admin1
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+
 
 Our channels
 @Freebot1
